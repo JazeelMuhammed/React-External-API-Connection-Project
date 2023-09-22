@@ -1,2 +1,2 @@
-Meals Application
+React Third Party API Project using Axios
 
